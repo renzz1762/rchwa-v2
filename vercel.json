@@ -1,0 +1,4 @@
+{
+  "outputDirectory": "public",
+  "functions": { "api/rch.js": { "maxDuration": 30 } }
+}
